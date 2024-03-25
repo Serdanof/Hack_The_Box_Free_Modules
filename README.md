@@ -34,3 +34,11 @@
 		- MacOS Fundamentals
 		- Brief Intro to Hardware Attacks
 		- Security Incident Reporting
+
+- **Account:** 628favourite@awgarstone.com:628favourite@awgarstone.com
+	- **Modules:**
+		- Introduction to Bash Scripting
+		
+- **Account:** carley8013@awgarstone.com:carley8013@awgarstone.com
+	- **Modules:**
+		- Introduction to Python 3

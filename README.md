@@ -24,3 +24,13 @@
 		- Introduction to Web Applications
 		- Intro to Network Traffic Analysis
 		- Getting Started
+ 
+- **Account:** alainecyan@awgarstone.com:alainecyan@awgarstone.com
+	- **Modules:**
+		- Linux Fundamentals
+		- Setting Up
+		- Stack-Based Buffer Overflows on Windows x86
+		- Vulnerability Assessment
+		- MacOS Fundamentals
+		- Brief Intro to Hardware Attacks
+		- Security Incident Reporting

@@ -141,3 +141,43 @@ you will see "Welcome to HTB Academy! Proof: t4rg3ts"
 
 **Ans:** 3
 
+## Modules: Network Enumeration with Nmap
+
+**Q:** Based on the last result, find out which operating system it belongs to. Submit the name of the operating system as result. 
+
+**Ans:** Windows
+
+**Q:** Find all TCP ports on your target. Submit the total number of found TCP ports as the answer. 
+
+**Ans:** 7
+
+**Q:** Enumerate the hostname of your target and submit it as the answer. (case-sensitive) 
+
+**Ans:** NIX-NMAP-DEFAULT
+
+**Q:** Perform a full TCP port scan on your target and create an HTML report. Submit the number of the highest port as the answer. 
+
+**Ans:** 31337
+
+**Q:** Enumerate all ports and their services. One of the services contains the flag you have to submit as the answer.
+
+**Ans:** HTB{pr0F7pDv3r510nb4nn3r}
+
+**Q:** Use NSE and its scripts to find the flag that one of the services contain and submit it as the answer. 
+
+**Ans:** HTB{873nniuc71bu6usbs1i96as6dsv26}
+
+**Q:** Our client wants to know if we can identify which operating system their provided machine is running on. Submit the OS name as the answer. 
+
+**Ans:** Ubuntu
+
+**Q:** After the configurations are transferred to the system, our client wants to know if it is possible to find out our target's DNS server version. Submit the DNS server version of the target as the answer. 
+
+**Ans:** HTB{GoTtgUnyze9Psw4vGjcuMpHRp}
+
+**Q:** Now our client wants to know if it is possible to find out the version of the running services. Identify the version of service our client was talking about and submit the flag as the answer. 
+
+**Ans:** HTB{kjnsdf2n982n1827eh76238s98di1w6}
+
+
+

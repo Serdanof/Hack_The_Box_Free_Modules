@@ -14,6 +14,7 @@
 click on target to see the ipaddress with port number
 then copy that and put that on a web browser search bar as http://83.136.255.150:57021
 you will see "Welcome to HTB Academy! Proof: t4rg3ts"
+
 **Ans:** t4rgts
 
 ## Module: INTRODUCTION TO NETWORKING
@@ -44,4 +45,11 @@ you will see "Welcome to HTB Academy! Proof: t4rg3ts"
 **Ans:** /var/mail/htb-student
 **Q:** Which shell is specified for the htb-student user? 
 **Ans:** /bin/bash
-
+**Q:**  Which kernel version is installed on the system? (Format: 1.22.3) 
+**Ans:** 4.15.0
+**Q:**  What is the name of the network interface that MTU is set to 1500? 
+**Ans:** ens192
+**Q:** What is the name of the hidden "history" file in the htb-user's home directory? 
+**Ans:** .bash_history
+**Q:** What is the index number of the "sudoers" file in the "/etc" directory? 
+**Ans:** 147627

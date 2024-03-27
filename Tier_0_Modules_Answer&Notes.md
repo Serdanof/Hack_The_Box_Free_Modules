@@ -89,4 +89,55 @@ you will see "Welcome to HTB Academy! Proof: t4rg3ts"
 
 **Ans:** /usr/bin/xxd
 
+**Q:** How many files exist on the system that have the ".log" file extension? 
+
+**Ans:** 32
+
+**Q:**  How many total packages are installed on the target system? 
+
+**Ans:** 737
+
+**Q:**  How many services are listening on the target system on all interfaces? (Not on localhost and IPv4 only)
+
+**Ans:** 7
+
+**Q:** Determine what user the ProFTPd server is running under. Submit the username as the answer. 
+
+**Ans:** Proftpd
+
+**Q:** Use cURL from your Pwnbox (not the target machine) to obtain the source code of the "https://www.inlanefreight.com" website and filter all unique paths of that domain. Submit the number of these paths as the answer. 
+
+**Ans:** 34
+
+**Q:** Which option needs to be set to create a home directory for a new user using "useradd" command?
+
+**Ans:** -m
+
+**Q:** Which option needs to be set to lock a user account using the "usermod" command? (long version of the option)
+
+**Ans:** --lock
+
+**Q:**  Which option needs to be set to execute a command as a different user using the "su" command? (long version of the option) 
+
+**Ans:** --command
+
+**Q:** Use the "systemctl" command to list all units of services and submit the unit name with the description "Load AppArmor profiles managed internally by snapd" as the answer. 
+
+**Ans:** snapd.apparmor.service
+
+**Q:**  What is the type of the service of the "syslog.service"? 
+
+**Ans:** notify
+
+**Q:**  Find a way to start a simple HTTP server inside Pwnbox or your local VM using "npm". Submit the command that starts the web server on port 8080 (use the short argument to specify the port number). 
+
+**Ans:** http-server -p 8080
+
+**Q:** Find a way to start a simple HTTP server inside Pwnbox or your local VM using "php". Submit the command that starts the web server on the localhost (127.0.0.1) on port 8080.
+
+**Ans:** php -S 127.0.0.1:8080
+
+**Q:** How many partitions exist in our Pwnbox? (Format: 0) 
+
+**Ans:** 3
 

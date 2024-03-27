@@ -69,5 +69,9 @@ you will see "Welcome to HTB Academy! Proof: t4rg3ts"
 
 **Ans:** 147627
 
+**Q:**  What is the name of the last modified file in the "/var/backups" directory? 
+
+**Ans:** apt.extended_states.0
+
 
 

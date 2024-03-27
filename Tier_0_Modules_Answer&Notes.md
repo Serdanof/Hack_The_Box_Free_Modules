@@ -73,5 +73,20 @@ you will see "Welcome to HTB Academy! Proof: t4rg3ts"
 
 **Ans:** apt.extended_states.0
 
+**Q:** What is the inode number of the "shadow.bak" file in the "/var/backups" directory? 
+
+**Ans:** 265293
+
+**Q:** What is the name of the config file that has been created after 2020-03-03 and is smaller than 28k but larger than 25k? 
+
+**Ans:** 00-mesa-defaults.conf
+
+**Q:** How many files exist on the system that have the ".bak" extension? 
+
+**Ans:** 4
+
+**Q:**  Submit the full path of the "xxd" binary.
+
+**Ans:** /usr/bin/xxd
 
 
